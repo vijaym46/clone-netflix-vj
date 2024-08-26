@@ -1,6 +1,3 @@
-setInterval(updateScreenWidth, 1000);
-
-
 /* Checkbox */
 
 const checkboxes = document.querySelectorAll('.single-checkbox');
@@ -17,4 +14,3 @@ checkboxes.forEach(checkbox => {
     });
 });
 
-/*  */
